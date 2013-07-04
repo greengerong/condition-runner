@@ -52,6 +52,12 @@
                     <verbose>true</verbose>
                     <privateScope>true</privateScope>
                     <complianceLevel>1.6</complianceLevel>
+                    <aspectLibraries>
+                        <aspectLibrary>
+                            <groupId>com.github.greengerong</groupId>
+                            <artifactId>condition-runner</artifactId>
+                        </aspectLibrary>
+                    </aspectLibraries>
                 </configuration>
                 <executions>
                     <execution>

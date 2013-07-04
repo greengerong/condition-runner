@@ -4,14 +4,15 @@
     <list default="true" id="cd261a52-30f7-429c-81f8-3de16094462e" name="Default" comment="" />
     <ignored path="sample.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/pom.xml" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372949220430" ignored="false" />
+    <file path="/pom.xml" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372952068927" ignored="false" />
     <file path="/App.java" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372948103034" ignored="false" />
     <file path="/a.dummy" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372948325444" ignored="false" />
     <file path="/fragment.java" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372948354294" ignored="false" />
     <file path="/MockAspectedClass.java" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372948874155" ignored="false" />
-    <file path="$PROJECT_DIR$/../pom.xml" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372949317552" ignored="false" />
+    <file path="$PROJECT_DIR$/../pom.xml" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372951324867" ignored="false" />
     <file path="/ConditionRunAspect.java" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372950393657" ignored="false" />
-    <file path="/Dummy.txt" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372950792430" ignored="false" />
+    <file path="/Dummy.txt" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372950815388" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/com/github/greengerong/condition-runner/1.0-SNAPSHOT/condition-runner-1.0-SNAPSHOT.jar!/META-INF/maven/com.github.greengerong/condition-runner/pom.xml" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372951379202" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,19 +73,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConditionRunAspect.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sample/ConditionRunAspect.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="33" selection-start="327" selection-end="327" vertical-scroll-proportion="0.15873016">
+            <state line="61" column="90" selection-start="2312" selection-end="2312" vertical-scroll-proportion="0.680798">
               <folding />
             </state>
           </provider>
@@ -93,7 +85,7 @@
       <file leaf-file-name="ConditionRunAspectTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/sample/ConditionRunAspectTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="39" selection-start="146" selection-end="168" vertical-scroll-proportion="0.0">
+            <state line="5" column="63" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -142,8 +134,8 @@
         <option value="$PROJECT_DIR$/src/test/java/sample/MockAspectedClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/sample/MockAspectedClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/sample/ConditionRunAspectTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/sample/ConditionRunAspect.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -468,7 +460,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958813" sideWeight="0.6703125" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -597,23 +589,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/sample/ConditionRunAspectTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="39" selection-start="146" selection-end="168" vertical-scroll-proportion="0.0">
+        <state line="5" column="63" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/ConditionRunAspect.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="327" selection-end="327" vertical-scroll-proportion="0.15873016">
+        <state line="61" column="90" selection-start="2312" selection-end="2312" vertical-scroll-proportion="0.680798">
           <folding />
         </state>
       </provider>
