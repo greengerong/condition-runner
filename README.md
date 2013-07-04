@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/greengerong/condition-runner.png?branch=master)](https://travis-ci.org/greengerong/condition-runner)
+
 Add Aspectj AOP for run some method by condition.
 
 For example: In our code base, it is for mutiple brands, so some times we only want our code only release for some brands.
