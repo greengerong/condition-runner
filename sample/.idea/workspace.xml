@@ -11,11 +11,13 @@
     <file path="/MockAspectedClass.java" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372948874155" ignored="false" />
     <file path="$PROJECT_DIR$/../pom.xml" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372951324867" ignored="false" />
     <file path="/ConditionRunAspect.java" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372950393657" ignored="false" />
-    <file path="/Dummy.txt" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372952470577" ignored="false" />
+    <file path="/Dummy.txt" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372952550217" ignored="false" />
     <file path="$MAVEN_REPOSITORY$/com/github/greengerong/condition-runner/1.0-SNAPSHOT/condition-runner-1.0-SNAPSHOT.jar!/META-INF/maven/com.github.greengerong/condition-runner/pom.xml" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372951379202" ignored="false" />
     <file path="$PROJECT_DIR$/../.gitignore" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372952533603" ignored="false" />
     <file path="/.gitignore" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372952532183" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372952533603" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372953226873" ignored="false" />
+    <file path="$PROJECT_DIR$/../README" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372953259323" ignored="false" />
+    <file path="/README" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372953258213" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="90" selection-start="2312" selection-end="2312" vertical-scroll-proportion="0.680798">
+            <state line="61" column="28" selection-start="2312" selection-end="2312" vertical-scroll-proportion="0.680798">
               <folding />
             </state>
           </provider>
@@ -88,7 +90,7 @@
       <file leaf-file-name="ConditionRunAspectTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/sample/ConditionRunAspectTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="63" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
+            <state line="5" column="42" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -594,14 +596,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/sample/ConditionRunAspectTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="63" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
+        <state line="5" column="42" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="90" selection-start="2312" selection-end="2312" vertical-scroll-proportion="0.680798">
+        <state line="61" column="28" selection-start="2312" selection-end="2312" vertical-scroll-proportion="0.680798">
           <folding />
         </state>
       </provider>
