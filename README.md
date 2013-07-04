@@ -44,6 +44,7 @@ Usage:(you can see the sample project https://github.com/greengerong/condition-r
         </plugin>
 
 3: then defined yourself runner:
+
     public class xxxxRunner implements Runner {
 
         @Override

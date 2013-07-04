@@ -11,13 +11,14 @@
     <file path="/MockAspectedClass.java" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372948874155" ignored="false" />
     <file path="$PROJECT_DIR$/../pom.xml" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372951324867" ignored="false" />
     <file path="/ConditionRunAspect.java" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372950393657" ignored="false" />
-    <file path="/Dummy.txt" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372953290410" ignored="false" />
+    <file path="/Dummy.txt" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372953557564" ignored="false" />
     <file path="$MAVEN_REPOSITORY$/com/github/greengerong/condition-runner/1.0-SNAPSHOT/condition-runner-1.0-SNAPSHOT.jar!/META-INF/maven/com.github.greengerong/condition-runner/pom.xml" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372951379202" ignored="false" />
     <file path="$PROJECT_DIR$/../.gitignore" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372952533603" ignored="false" />
     <file path="/.gitignore" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372952532183" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372953488301" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372953686741" ignored="false" />
     <file path="$PROJECT_DIR$/../README" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372953486834" ignored="false" />
     <file path="/README" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372953463114" ignored="false" />
+    <file path="$PROJECT_DIR$/../README.md" changelist="cd261a52-30f7-429c-81f8-3de16094462e" time="1372953683286" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
