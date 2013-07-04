@@ -1,8 +1,7 @@
 Add Aspectj AOP for run some method by condition.
 
-For example: In our code base, it is for mutiple brand, so some time we only want our code only release for some brand.
-Then we can easy to use this plugin to mask it. And for this plugin, you can easy to defined yourself rule to support your
-requirement.
+For example: In our code base, it is for mutiple brands, so some times we only want our code only release for some brands.
+Then we can easy to use this plugin to mask it. And for this plugin, you can easy to defined yourself rule to support your requirement.
 
 Usage:(you can see the sample project https://github.com/greengerong/condition-runner/tree/master/sample)
 
