@@ -3,7 +3,7 @@
 
     <groupId>com.github.greengerong</groupId>
     <artifactId>condition-runner</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>condition-runner</name>
