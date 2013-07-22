@@ -12,7 +12,7 @@ Usage:(you can see the sample project https://github.com/greengerong/condition-r
        <dependency>
             <groupId>com.github.greengerong</groupId>
             <artifactId>condition-runner</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.1</version>
         </dependency>
 
 
